@@ -1,1 +1,2 @@
-I am AVINASH VINOD SHINDE.I am compleating my M-tech in Computer science and engineering course. 
+I am AVINASH VINOD SHINDE.I am pursuing my M-tech in Computer science and engineering course. 
+"This is my first github project."
